@@ -1,4 +1,4 @@
-# Countdown
+# Countdown to the final bitcoin halving
 Days to the final Bitcoin halving
 
 

@@ -3,7 +3,7 @@ Days to the final Bitcoin halving
 
 
 # Quick Demo
-https://harley.netlify.app/
+https://andygrowth.github.io/Countdown-to-the-final-bitcoin-halving/
 
 
 # Features
